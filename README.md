@@ -4,7 +4,7 @@
 1. [Problem](README.md#problem)
 1. [Solution](README.md#solution)
 1. [Input Dataset](README.md#input-dataset)
-1. [Output](README.md#output-dataset)
+1. [Output Dataset](README.md#output-dataset)
 
 ## Problem
 The Bureau of Transportation Statistics regularly makes available data on the number of vehicles, equipment, passengers and pedestrians crossing into the United States by land.
